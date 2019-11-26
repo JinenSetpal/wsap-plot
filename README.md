@@ -10,4 +10,4 @@ Library: Matplotlib
 ```
 python analysis.py <input file path here>
 ```
-Note: You can enter the file name only provided the file is in the same directory as analysis.py. Ensure to add the required extension.
+Note: You can enter the file name only provided the file is in the same directory as analysis.py. Ensure to add the corresponding file extension.
